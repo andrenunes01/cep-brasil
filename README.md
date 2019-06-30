@@ -1,7 +1,8 @@
 # cep-brasil
 [![Latest Stable Version](https://poser.pugx.org/jansenfelipe/cep-gratis/v/stable.svg)](https://packagist.org/packages/casilhero/cep-brasil)
 [![MIT license](https://poser.pugx.org/jansenfelipe/nfephp-serialize/license.svg)](http://opensource.org/licenses/MIT)
-projeto adaptado de https://github.com/jansenfelipe/cep-gratis com algumas melhorias.
+
+Projeto adaptado de https://github.com/jansenfelipe/cep-gratis com algumas melhorias.
 
 Alterações: CorreiosProvider foi alterado para o novo fornecimento de dados dos correios.
 ViaCepProvider foi alterado de forma que trate o retorno de erro do viaCep.
