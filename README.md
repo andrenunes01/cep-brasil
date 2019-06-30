@@ -13,7 +13,7 @@ ViaCepProvider foi alterado de forma que trate o retorno de erro do viaCep.
 Adicione a library
 
 ```shell
-$ composer require casilhero/cep-brasil
+$ composer require cep/cep-brasil
 ```
 
 Adicione o autoload.php do composer no seu arquivo PHP.
@@ -25,7 +25,7 @@ require_once 'vendor/autoload.php';
 Agora basta chamar o método `CepGratis::search($cep)`
 
 ```php
-use Casilhero\CepGratis\CepGratis;
+use CepGratis\CepGratis;
 
 $address = CepGratis::search('31030080');
 ```
