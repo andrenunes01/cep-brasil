@@ -1,6 +1,6 @@
 <?php
 
-namespace Casilhero\CepGratis\Contracts;
+namespace CepGratis\Contracts;
 
 interface HttpClientContract
 {

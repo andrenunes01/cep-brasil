@@ -1,14 +1,14 @@
 <?php
 
-namespace Casilhero\CepGratis;
+namespace CepGratis;
 
-use Casilhero\CepGratis\Clients\CurlHttpClient;
-use Casilhero\CepGratis\Contracts\HttpClientContract;
-use Casilhero\CepGratis\Contracts\ProviderContract;
-use Casilhero\CepGratis\Exceptions\CepGratisInvalidParameterException;
-use Casilhero\CepGratis\Exceptions\CepGratisTimeoutException;
-use Casilhero\CepGratis\Providers\CorreiosProvider;
-use Casilhero\CepGratis\Providers\ViaCepProvider;
+use CepGratis\Clients\CurlHttpClient;
+use CepGratis\Contracts\HttpClientContract;
+use CepGratis\Contracts\ProviderContract;
+use CepGratis\Exceptions\CepGratisInvalidParameterException;
+use CepGratis\Exceptions\CepGratisTimeoutException;
+use CepGratis\Providers\CorreiosProvider;
+use CepGratis\Providers\ViaCepProvider;
 
 /**
  * Class to query CEP.

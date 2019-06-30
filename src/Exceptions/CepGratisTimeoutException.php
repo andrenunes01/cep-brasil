@@ -1,6 +1,6 @@
 <?php
 
-namespace Casilhero\CepGratis\Exceptions;
+namespace CepGratis\Exceptions;
 
 /**
  * CepGratisTimeoutException.
