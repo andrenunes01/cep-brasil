@@ -1,6 +1,6 @@
 {
-    "name": "Casilhero/cep-brasil",
-    "description": "Com esse pacote você poderá realizar consultas de CEP gratuitamente. Adaptado de jansenfelipe/cep-gratis com algumas melhorias e correções",
+    "name": "casilhero/cep-brasil",
+    "description": "Com esse pacote você poderá realizar consultas de CEP gratuitamente. Adaptado de jansenfelipe/cep-gratis com algumas melhorias e correções dos providers",
     "keywords": ["cep", "correios", "php"],
     "license": "MIT",
     "authors": [
