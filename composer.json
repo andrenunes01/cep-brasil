@@ -1,5 +1,5 @@
 {
-    "name": "cep-brasil",
+    "name": "CepBrasil",
     "description": "Com esse pacote você poderá realizar consultas de CEP gratuitamente. Adaptado de jansenfelipe/cep-gratis com algumas melhorias e correções dos providers do correios e ViaCep",
     "keywords": ["cep", "correios", "php"],
     "license": "MIT",
