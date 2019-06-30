@@ -1,8 +1,8 @@
 <?php
 
-namespace Casilhero\CepGratis\Clients;
+namespace CepGratis\Clients;
 
-use Casilhero\CepGratis\Contracts\HttpClientContract;
+use CepGratis\Contracts\HttpClientContract;
 
 class CurlHttpClient implements HttpClientContract
 {

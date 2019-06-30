@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "casilhero\\CepGratis\\": "src/"
+            "CepGratis\\": "src/"
         }
     },
     "require-dev": {

@@ -1,10 +1,10 @@
 <?php
 
-namespace Casilhero\CepGratis\Providers;
+namespace CepGratis\Providers;
 
-use Casilhero\CepGratis\Address;
-use Casilhero\CepGratis\Contracts\HttpClientContract;
-use Casilhero\CepGratis\Contracts\ProviderContract;
+use CepGratis\Address;
+use CepGratis\Contracts\HttpClientContract;
+use CepGratis\Contracts\ProviderContract;
 use Symfony\Component\DomCrawler\Crawler;
 
 class CorreiosProvider implements ProviderContract

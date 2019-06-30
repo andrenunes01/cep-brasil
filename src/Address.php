@@ -1,6 +1,6 @@
 <?php
 
-namespace Casilhero\CepGratis;
+namespace CepGratis;
 
 class Address
 {
